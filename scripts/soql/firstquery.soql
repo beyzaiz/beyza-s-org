@@ -1,0 +1,3 @@
+SELECT  id, name, phone from Account
+
+SELECT Type, Name, Id, BillingState, createddate FROM Account order by createddate desc limit 1
