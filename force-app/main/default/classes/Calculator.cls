@@ -1,4 +1,7 @@
 public class Calculator {
+
+    //parameters:  two integer
+    //returns: sum of two integers
     public void welcomeMessage(){
         system.debug('welcome to apex calc,  update');
     }
