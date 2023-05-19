@@ -78,6 +78,6 @@ public with sharing class SoqlDemo {
             system.debug('Project name ' + eachSP.name + ', total tickets ' + totalTickets + ' high priority tickets are ' + highPriorityST);
 
         }
+        
     }
 }
-
